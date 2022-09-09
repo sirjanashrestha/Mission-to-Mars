@@ -33,9 +33,19 @@ The data extracted from website were stored in MongoDB Database and then a web a
 <img width="416" alt="Screen Shot 2022-09-08 at 3 35 37 PM" src="https://user-images.githubusercontent.com/107566776/189210773-6cd9a9af-fcd2-4c71-99e3-de68a64d2224.png">
 
 ### Using Bootstrap 3 to modify the html file
-- Webpage is mobile responsive
+- Webpage is mobile responsive 
+<img width="650" alt="Screen Shot 2022-09-08 at 10 07 51 PM" src="https://user-images.githubusercontent.com/107566776/189257350-99fced95-3f27-4726-97d7-4e0b9df54952.png">
+<img width="216" alt="Screen Shot 2022-09-08 at 10 13 15 PM" src="https://user-images.githubusercontent.com/107566776/189257822-c6cb5cbd-56f7-41fa-affd-76a8d94d1734.png">
+
+
 
 - Two additional Bootstrap 3 components are used to style the webpage
-1. Changed the button color
+1. Changed the title color and hemisphere size 
+2. Added background picture
+
+### Final Website 
+<img width="299" alt="Screen Shot 2022-09-08 at 10 02 36 PM" src="https://user-images.githubusercontent.com/107566776/189258626-e39329dd-b0c0-4fb0-81cf-7fe00bd6f89f.png">
+
+
 
 
